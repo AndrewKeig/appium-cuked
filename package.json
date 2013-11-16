@@ -1,0 +1,17 @@
+{
+  "name": "appium-cuked",
+  "version": "0.0.0",
+  "private": true,
+  "description": "automation tests",
+  "author": "airasoul",
+  "dependencies": {
+    "wd": "~0.2.4"
+  },
+  "devDependencies": {
+    "assert": "~0.4.9",
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "cucumber": "~0.3.1",
+    "grunt-cucumber": "~0.2.1"
+  }
+}
